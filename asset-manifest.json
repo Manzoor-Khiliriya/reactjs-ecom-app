@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactjs-ecom-app/static/css/main.550adc2e.css",
+    "main.js": "/reactjs-ecom-app/static/js/main.bba17449.js",
+    "static/js/787.310c0a9c.chunk.js": "/reactjs-ecom-app/static/js/787.310c0a9c.chunk.js",
+    "static/media/Phase_3_Tallhero_3000x1200._CB573749545_.jpg": "/reactjs-ecom-app/static/media/Phase_3_Tallhero_3000x1200._CB573749545_.ccf4565a68c4a0cde6bc.jpg",
+    "static/media/J23_P3B_PC_NTA_Hero_2x_V3._CB573693536_.jpg": "/reactjs-ecom-app/static/media/J23_P3B_PC_NTA_Hero_2x_V3._CB573693536_.40bcf6b0abd77a106352.jpg",
+    "static/media/Deals-on-makeup-PCyu._CB573741808_.jpg": "/reactjs-ecom-app/static/media/Deals-on-makeup-PCyu._CB573741808_.e474a9ca0255a348cdb8.jpg",
+    "static/media/logo.svg": "/reactjs-ecom-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactjs-ecom-app/index.html",
+    "main.550adc2e.css.map": "/reactjs-ecom-app/static/css/main.550adc2e.css.map",
+    "main.bba17449.js.map": "/reactjs-ecom-app/static/js/main.bba17449.js.map",
+    "787.310c0a9c.chunk.js.map": "/reactjs-ecom-app/static/js/787.310c0a9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.550adc2e.css",
+    "static/js/main.bba17449.js"
+  ]
+}
