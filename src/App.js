@@ -34,6 +34,7 @@ function App() {
         <Header onSearchChange={onSearchChange} />
         <Routes>
           <Route path='/' element={<Home />} />
+          <Route path='/reactjs-ecom-app' element={<Home />} />
           <Route path='/products' element={<ProductList searchText={searchText} />} />
           <Route path='/products/:productId' element={<ProductDetail />} />
           <Route path='/about us' element={<AboutUs />} />

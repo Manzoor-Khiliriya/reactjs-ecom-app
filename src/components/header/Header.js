@@ -14,7 +14,7 @@ function Header(props) {
                 <div className="container-fluid mx-4">
                     <div className="mx-3">
                     <NavLink to='/'>
-                            <img src="https://student.upcode.in/_next/static/media/app-logo.e21cd1d7.svg"></img>
+                            <img src="https://s3.ap-south-1.amazonaws.com/upcode-bucket-01/organization/1729661939483.jpeg" width={200}></img>
                             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span className="navbar-toggler-icon"></span>
                             </button>
